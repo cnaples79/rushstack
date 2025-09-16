@@ -367,6 +367,10 @@
       "allowedCategories": [ "libraries" ]
     },
     {
+      "name": "@rushstack/zipsync",
+      "allowedCategories": [ "libraries" ]
+    },
+    {
       "name": "@serverless-stack/aws-lambda-ric",
       "allowedCategories": [ "tests" ]
     },
